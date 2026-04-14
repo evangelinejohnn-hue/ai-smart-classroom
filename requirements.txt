@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+deepface
+tensorflow
+tf-keras
+numpy
+pandas
+matplotlib
+fpdf
+face-recognition
+requests
